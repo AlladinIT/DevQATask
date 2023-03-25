@@ -4,8 +4,9 @@
 
 For building and running the application you need:
 
-- [JDK 11](https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html)
+- [JDK 18](https://www.oracle.com/java/technologies/javase/jdk18-archive-downloads.html)
 - [Chrome Driver](https://chromedriver.chromium.org/)
+- [Intellij](https://www.jetbrains.com/idea/)
 
 
 ## Running the application locally
