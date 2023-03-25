@@ -17,5 +17,4 @@ If you need another version put it in
 ```
 
 ## Usage
-Using Selenium, this program opens ```https://www.playtech.ee``` in web browser. Clicks on the internship tab (using coordinates), verifies if "Development QA Engineer (Intern)" position is shown on the page and writes the result into ```.\DevQATask\src\test\resources\output.txt``` file
-```
+Using Selenium, this program opens ```https://www.playtech.ee``` in web browser. Clicks on the internship tab (using coordinates), verifies if "Development QA Engineer (Intern)" position is shown on the page and writes the result into ```.\DevQATask\src\test\resources\output.txt``` file.
